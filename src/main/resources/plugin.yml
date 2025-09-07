@@ -1,0 +1,5 @@
+name: Boatracingplugin
+version: '1.0.1'
+main: net.p4pingvin4ik.boatracingplugin.Boatracingplugin
+api-version: '1.21.8'
+authors: [ p4pingvin4ik ]
